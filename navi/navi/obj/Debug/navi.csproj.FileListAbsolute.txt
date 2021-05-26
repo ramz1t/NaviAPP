@@ -33,3 +33,25 @@ C:\SHP\navi\navi\obj\Debug\navi.pdb
 C:\SHP\navi\navi\obj\Debug\controls.g.cs
 C:\SHP\navi\navi\obj\Debug\controls.baml
 C:\SHP\navi\navi\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\timur\Downloads\NaviAPP-main (1)\NaviAPP-main\navi\navi\obj\Debug\navi.csprojAssemblyReference.cache
+C:\Users\timur\Downloads\NaviAPP-main (1)\NaviAPP-main\navi\navi\obj\Debug\controls.g.cs
+C:\Users\timur\Downloads\NaviAPP-main (1)\NaviAPP-main\navi\navi\obj\Debug\Main.g.cs
+C:\Users\timur\Downloads\NaviAPP-main (1)\NaviAPP-main\navi\navi\obj\Debug\MainWindow.g.cs
+C:\Users\timur\Downloads\NaviAPP-main (1)\NaviAPP-main\navi\navi\obj\Debug\App.g.cs
+C:\Users\timur\Downloads\NaviAPP-main (1)\NaviAPP-main\navi\navi\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\timur\Downloads\NaviAPP-main (1)\NaviAPP-main\navi\navi\obj\Debug\navi_MarkupCompile.cache
+C:\Users\timur\Downloads\NaviAPP-main (1)\NaviAPP-main\navi\navi\obj\Debug\navi_MarkupCompile.lref
+C:\Users\timur\Downloads\NaviAPP-main (1)\NaviAPP-main\navi\navi\obj\Debug\navi.exe
+C:\Users\timur\Downloads\NaviAPP-main (1)\NaviAPP-main\navi\navi\obj\Debug\navi.pdb
+C:\Users\timur\Downloads\NaviAPP-main (1)\NaviAPP-main\navi\navi\obj\Debug\history.g.cs
+C:\Users\timur\Downloads\NaviAPP-main (1)\NaviAPP-main\navi\navi\obj\Debug\controls.baml
+C:\Users\timur\Downloads\NaviAPP-main (1)\NaviAPP-main\navi\navi\obj\Debug\Main.baml
+C:\Users\timur\Downloads\NaviAPP-main (1)\NaviAPP-main\navi\navi\obj\Debug\MainWindow.baml
+C:\Users\timur\Downloads\NaviAPP-main (1)\NaviAPP-main\navi\navi\obj\Debug\history.baml
+C:\Users\timur\Downloads\NaviAPP-main (1)\NaviAPP-main\navi\navi\obj\Debug\navi.g.resources
+C:\Users\timur\Downloads\NaviAPP-main (1)\NaviAPP-main\navi\navi\bin\Debug\navi.exe.config
+C:\Users\timur\Downloads\NaviAPP-main (1)\NaviAPP-main\navi\navi\bin\Debug\navi.exe
+C:\Users\timur\Downloads\NaviAPP-main (1)\NaviAPP-main\navi\navi\bin\Debug\navi.pdb
+C:\Users\timur\Downloads\NaviAPP-main (1)\NaviAPP-main\navi\navi\obj\Debug\navi.csproj.CoreCompileInputs.cache
+C:\Users\timur\Downloads\NaviAPP-main (1)\NaviAPP-main\navi\navi\obj\Debug\socials.g.cs
+C:\Users\timur\Downloads\NaviAPP-main (1)\NaviAPP-main\navi\navi\obj\Debug\socials.baml

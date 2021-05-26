@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:navi"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Команда 2021" Height="450" Width="800">
     <Window.Background>
         <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
             <GradientStop Color="#FFF3C21C" Offset="0.657"/>
@@ -36,7 +36,7 @@
         <Label Content="S1mple" Margin="26,10,25,160.8" FontFamily="Yu Gothic UI Semibold" FontSize="20" FontWeight="Bold" Grid.Column="1" Background="{x:Null}" Foreground="#FF191911"/>
         <Image Grid.Column="3" Margin="0,49,0,205" Source="elec.png" Grid.RowSpan="2"/>
         <Label Content="Electronic" Grid.Column="2" HorizontalAlignment="Right" Margin="0,10,2,160.8" Width="128" FontFamily="Yu Gothic UI Semibold" FontSize="20" FontWeight="Bold" HorizontalContentAlignment="Center" Grid.ColumnSpan="2"/>
-        <Image Grid.Column="5" Margin="0,48,0,205" Source="zhirniy.png" Grid.RowSpan="2"/>
+        <Image Grid.Column="5" Margin="0,49,0,192" Source="zhirniy.png" Grid.RowSpan="2"/>
         <Label Content="Boombl4" Grid.Column="5" HorizontalAlignment="Left" Height="38" Margin="0,10,0,0" VerticalAlignment="Top" Width="128" FontFamily="Yu Gothic UI Semibold" FontSize="20" FontWeight="Bold" HorizontalContentAlignment="Center" Grid.ColumnSpan="2"/>
         <Image Grid.Column="7" Margin="0,66,24.6,205" Source="love.png" Grid.ColumnSpan="2" Grid.RowSpan="2"/>
         <Label Content="Perfecto" Grid.Column="7" HorizontalAlignment="Left" Height="39" Margin="0,10,0,0" VerticalAlignment="Top" Width="127" FontFamily="Yu Gothic UI Semibold" FontSize="20" FontWeight="Bold" HorizontalContentAlignment="Center" Grid.ColumnSpan="2"/>
@@ -72,11 +72,7 @@
         <Label Content="Рифлер" Grid.Column="7" Margin="64,87.2,0.8,93" FontFamily="Yu Gothic UI Semibold" Grid.Row="1"/>
         <Label Content="Капитан" Grid.Column="5" Margin="65,87.2,0,93" FontFamily="Yu Gothic UI Semibold" Grid.Row="1"/>
         <Label Content="Рифлер" Grid.Column="3" Margin="65,87.2,0,93" FontFamily="Yu Gothic UI Semibold" Grid.Row="1"/>
-        <Rectangle Height="420" Stroke="Black" VerticalAlignment="Top" Opacity="0.7" Margin="-2,0,4,0" Fill="Black" Grid.RowSpan="2"/>
-        <Image Margin="8,120,15,41.8" Source="еь.png" Stretch="Fill"/>
-        <Label Content="Команда" HorizontalAlignment="Left" Height="29" Margin="3,151,0,0" VerticalAlignment="Top" Width="60" FontFamily="Yu Gothic UI Semibold" FontWeight="Bold"/>
-        <Image x:Name="homeBT" Margin="10,18,17,152.8" Source="NAVI_logo.png" Stretch="Fill" MouseLeftButtonDown="homeBT_MouseLeftButtonDown"/>
-        <Button x:Name="teamBT" Content="" HorizontalAlignment="Left" Height="54" Margin="7,180,0,0" VerticalAlignment="Top" Width="60" Background="#00DDDDDD" Click="teamBT_Click" BorderBrush="#00707070" Grid.RowSpan="2"/>
+        <local:controls Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="-4,0,0,0" Width="82" Grid.RowSpan="2"/>
 
     </Grid>
 </Window>

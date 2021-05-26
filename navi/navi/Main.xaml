@@ -5,21 +5,16 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:navi"
         mc:Ignorable="d"
-        Title="Main" Height="450" Width="800">
+        Title="Главная" Height="450" Width="800">
     <Grid>
         <Grid.Background>
             <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                 <GradientStop Color="Black" Offset="1"/>
-                <GradientStop Color="#FFFFF200" Offset="0.44"/>
+                <GradientStop Color="#FFFFD100" Offset="0.44"/>
             </LinearGradientBrush>
         </Grid.Background>
         <Image Margin="229,68,182.6,64" Source="NAVI_logo.png" Stretch="Fill"/>
-        <Rectangle Height="420" Stroke="Black" VerticalAlignment="Top" Opacity="0.7" Margin="-2,0,725.6,0" Fill="Black"/>
-        <Image Margin="8,120,736.6,250.6" Source="еь.png" Stretch="Fill"/>
-        <Label Content="Команда" HorizontalAlignment="Left" Height="29" Margin="3,151,0,0" VerticalAlignment="Top" Width="60" FontFamily="Yu Gothic UI Semibold" FontWeight="Bold"/>
-        <Image x:Name="homeBT" Margin="10,18,738.6,361.6" Source="NAVI_logo.png" Stretch="Fill" MouseLeftButtonDown="homeBT_MouseLeftButtonDown"/>
-        <Button x:Name="teamBT" Content="" HorizontalAlignment="Left" Height="54" Margin="3,126,0,0" VerticalAlignment="Top" Width="60" Background="#00DDDDDD" Click="teamBT_Click" BorderBrush="#00707070" Foreground="{x:Null}"/>
-        <local:controls HorizontalAlignment="Left" Height="420" Margin="109,0,0,0" VerticalAlignment="Top" Width="90"/>
+        <local:controls HorizontalAlignment="Left" Height="420" Margin="0,-1,0,0" VerticalAlignment="Top" Width="90"/>
 
     </Grid>
 </Window>

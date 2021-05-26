@@ -29,13 +29,30 @@ namespace navi
         {
             Main mw = new Main();
             mw.Show();
-            (sender as Window).Hide();
+            Window w = Window.GetWindow(sender as DependencyObject);
+            w.Hide();
         }
 
         private void teamBT_Click(object sender, RoutedEventArgs e)
         {
             MainWindow mw = new MainWindow();
             mw.Show();
+            Window w = Window.GetWindow(sender as DependencyObject);
+            w.Hide();
+        }
+
+        private void historyBT_Click(object sender, RoutedEventArgs e)
+        {
+            history h = new history();
+            h.Show();
+            Window w = Window.GetWindow(sender as DependencyObject);
+            w.Hide();
+        }
+
+        private void socialsBT_Click(object sender, RoutedEventArgs e)
+        {
+            socials s = new socials();
+            s.Show();
             Window w = Window.GetWindow(sender as DependencyObject);
             w.Hide();
         }
